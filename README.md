@@ -1,12 +1,13 @@
 # GraphQL Workshop @ OSCON
 
-A hands-on intro to GraphQL and Apollo Server at OSCON 2019.
+A hands-on intro to GraphQL and Apollo Server at OSCON 2019!
 
 **Presenters: Alex Banks & Eve Porcello**
 
-- [Alex Twitter](https://www.twitter.com/eveporcello) | alex@moonhighway.com
-- [Eve Twitter](https://www.twitter.com/eveporcello) | eve@moonhighway.com
-- [Moon Highway Mailing List](https://moonhighway.com)
+- [Alex: @moontahoe](https://www.twitter.com/eveporcello) | alex@moonhighway.com
+- [Eve: @eveporcello](https://www.twitter.com/eveporcello) | eve@moonhighway.com
+- [Moon Highway Info](https://moonhighway.com)
+- [Moon Highway Mailing List](https://bit.ly/moonhighway)
 
 ## Links
 
@@ -25,6 +26,11 @@ A hands-on intro to GraphQL and Apollo Server at OSCON 2019.
 
 - [Start Files](https://github.com/graphqlworkshop/snowtooth-api)
 - [Finished Project](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
+
+### egghead.io Resources
+
+- [Create Fullstack Applications with GraphQL, Apollo, and React](https://egghead.io/playlists/create-fullstack-applications-with-graphql-and-apollo-794dc9c7)
+- [Getting Started with Apollo Federation](https://egghead.io/playlists/getting-started-with-apollo-federation-60ad0165)
 
 ## GraphQL Articles & Documentation
 
