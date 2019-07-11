@@ -26,6 +26,7 @@ A hands-on intro to GraphQL and Apollo Server at OSCON 2019!
 
 - [Start Files](https://github.com/graphqlworkshop/snowtooth-api)
 - [Finished Project](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
+- [CodeSandbox](https://codesandbox.io/s/apollo-server-ykrok)
 
 ### egghead.io Resources
 
